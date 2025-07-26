@@ -8,9 +8,9 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m learning **DSA, React**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at: **vanshkaushik749@gmail.com**
+- 🌱 I’m learning **DSA, React**.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 📫 Reach me at: **vanshkaushik749@gmail.com**.
 - 💬 Always open for a discussion about Freelancing Opportunites, Open Source, and Tech in general.
 - 👨‍💻 Find my resume here: [My Resume]([https://bit.ly/VanshKaushik02])
 ---
